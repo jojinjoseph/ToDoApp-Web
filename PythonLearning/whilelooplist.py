@@ -3,5 +3,6 @@ to_dos = []
 while True :
     todo = input(user_prmt)
     to_dos.append(todo)
-    print(to_dos)
+    print(todo.capitalize())
+    print(todo.title())
     print("--Next---")
