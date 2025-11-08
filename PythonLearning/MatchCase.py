@@ -9,3 +9,5 @@ while True :
             print(todos)
         case "exit":
             break
+        case _ :
+            print("invalid argument !!!")
