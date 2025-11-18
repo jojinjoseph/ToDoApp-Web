@@ -1,0 +1,4 @@
+write
+note
+call
+run
