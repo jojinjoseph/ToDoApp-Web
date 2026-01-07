@@ -1,6 +1,3 @@
-Summer
-clean
-dasda
-Wash Cloths
-Cleaning Room
-Study spanish
+hello
+summer
+hi
