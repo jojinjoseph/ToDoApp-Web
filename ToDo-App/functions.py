@@ -1,4 +1,4 @@
-filepath = "SamplePrograms/ToDoWebApp/todolist.txt"
+filepath = "todolist.txt"
 
 def add_values(todos):
     with open (filepath,"w") as file :
