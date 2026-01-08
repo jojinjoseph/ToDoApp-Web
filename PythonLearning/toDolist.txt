@@ -2,3 +2,9 @@ write
 note
 call
 run
+add
+view
+note]
+hello
+hhh
+
