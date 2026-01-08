@@ -1,5 +1,0 @@
-temperatures
-10
-22
-33
-45
